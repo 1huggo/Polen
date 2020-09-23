@@ -1,0 +1,69 @@
+/* Tabela */
+#contentTable {
+    width: 100%;
+    height: 70vh;
+}
+
+#contentTableInfity {
+    width: 100%;
+}
+
+.title-table {
+    margin-top: 32px;
+    width: 100%;
+}
+
+.form-group {
+    width: 100%;
+}
+
+.btn-link{
+    text-decoration: none;
+    color: #000;
+}
+.btn-link:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.line{
+    color: #fff !important;
+    background-color: #4caf50 !important;
+    transition: background-color 2s;
+}
+
+.rollCheck{
+    transform: rotate(360deg);
+    transition: transform 1s;
+}
+
+/* Cabeçalho  */
+.header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.element {
+    flex: 5;
+}
+
+.element-button {
+    flex: 1;
+}
+
+/* Modal */
+input[type="text"]{
+    margin-bottom: 16px;
+}
+.close-container {
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+.submit-modal {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
